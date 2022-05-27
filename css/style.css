@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Russo One', sans-serif;
+  background: white;
+  color: black;
+}
+h1 {
+  border-bottom: 1px solid white;
+  width: 100%;
+  color: gold;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 2px 2px #ff0000;
+  float: left;
+}
+section {
+  width: 40%;
+  margin-left: 10%;
+  float: left;
+}
+#headsButton, #tailsButton{
+  font-size: 30px;
+  margin-left: 22%;
+  float: left;
+}
+section > p {
+  font-size: 30px;
+  padding-right:22%;
+  width:80%;
+  text-align: center;
+}
+p {
+  width: 20%;
+  color:gold;
+  font-size: 20px;
+  margin-left: 20%;
+  float: left;
+}
