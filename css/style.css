@@ -20,7 +20,7 @@ section {
   margin-left: 10%;
   float: left;
 }
-#headsButton, #tailsButton{
+button {
   font-size: 30px;
   margin-left: 22%;
   float: left;
